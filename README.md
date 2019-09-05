@@ -9,6 +9,7 @@ Feature Engineering ideas:
 * Calculate distance to nearest fire station -- done
 * Calculate incident day of week -- To be completed (maybe identify trends)
 * Are there other data sets we can bring in? Maybe inspired by Aditya's blog post? 
+* Weather data? 
 
 Analytic Questions: 
 
