@@ -18,3 +18,5 @@ Analytic Questions:
 * Predict the response time (or may total incident duration) based on location, distance to fire station, number of units responding (or any other available features). 
 
 * Identify when incidents are most likely to occur to inform staffing decisions at fire stations. 
+
+* Sub-question: Predict alarm rates based on day of the week or the hour of the day to allow for planning of personnel staffing resources. 
